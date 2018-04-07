@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-fastdsf:war">
+    <output-path>$PROJECT_DIR$/spring-fastdsf/target</output-path>
+    <root id="archive" name="spring-fastdsf.war">
+      <element id="artifact" artifact-name="spring-fastdsf:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -47,11 +47,11 @@ public class FastDFSTests {
     }
 
     public static void testLoad() {
-        String filePath="C:\\Users\\neo\\Pictures\\xz.jpg";
-        File file=new File(filePath);
-        String serverUrl="http://localhost:8080/uploadSign";
-        for (int i=0;i<10000;i++){
-            HttpClientUtils.uploadFile(file,serverUrl);
+        String filePath = "C:\\Users\\neo\\Pictures\\xz.jpg";
+        File file = new File(filePath);
+        String serverUrl = "http://localhost:8080/uploadSign";
+        for (int i = 0; i < 10000; i++) {
+            HttpClientUtils.uploadFile(file, serverUrl);
         }
     }
 

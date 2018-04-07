@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-fastdsf" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-jedis-cluster" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-mybatis-mulidatasource" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-mybatis-mulidatasource-atomikos" />
+    <file type="web" url="file://$PROJECT_DIR$/spring4-mybatis3-simple" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-mybatis-mulidatasource-atomikos/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mybatis-mulidatasource/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jedis-simple/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jedis-cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-fastdsf/pom.xml" />
+        <option value="$PROJECT_DIR$/spring4-mybatis3-simple/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
