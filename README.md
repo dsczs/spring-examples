@@ -20,8 +20,3 @@ Demo website：http://www.ityouknow.com/
 - [spring-fastdsf](https://github.com/ityouknow/spring-home/tree/master/spring-jedis-cluster)：Spring 和 FastDFS集群操作的示例。
 
 
-
-
-关注公众号：纯洁的微笑，了解最新文章
-
-![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
